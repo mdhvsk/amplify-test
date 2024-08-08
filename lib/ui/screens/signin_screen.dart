@@ -73,7 +73,7 @@ class _SigninScreenState extends State<SigninScreen> {
             ),
             const SizedBox(height: 60),
             const Text(
-              'Username',
+              'Username added here',
               style: TextStyle(fontSize: 16, fontWeight: FontWeight.w500),
             ),
             const SizedBox(height: 8),
