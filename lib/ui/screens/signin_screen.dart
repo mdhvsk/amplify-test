@@ -63,7 +63,7 @@ class _SigninScreenState extends State<SigninScreen> {
                             SignOutButton(),
             const SizedBox(height: 40),
             Text(
-              'UMee News',
+              'UMee News Amplify Test',
               style: TextStyle(
                 fontSize: 32,
                 fontWeight: FontWeight.bold,
@@ -73,7 +73,7 @@ class _SigninScreenState extends State<SigninScreen> {
             ),
             const SizedBox(height: 60),
             const Text(
-              'Username',
+              'Username added here',
               style: TextStyle(fontSize: 16, fontWeight: FontWeight.w500),
             ),
             const SizedBox(height: 8),
